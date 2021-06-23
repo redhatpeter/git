@@ -1,1 +1,2 @@
 initial fileA.txt -v1
+adding -a option
