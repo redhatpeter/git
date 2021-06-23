@@ -1,4 +1,3 @@
 initial fileA.txt -v1
 adding -a option
 modifying on feature branch.
-modifying on feature branch 
