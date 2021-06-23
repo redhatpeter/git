@@ -1,1 +1,2 @@
 initial - fileB.txt -v1
+version 2 - three way merge
